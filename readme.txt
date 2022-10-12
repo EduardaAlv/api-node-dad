@@ -1,6 +1,6 @@
 ----Trabalho de Desenvolvimento de Aplicações Distribuídas----
 
-----Exemplo no Node.js, foi realizada a criação de uma API do tipo Get----
+----Exemplo de projeto Node.js, foi realizada a criação de uma API do tipo GET----
 ----Iniciando o servidor node----
 1) Instalar todas as dependências necessárias para o projeto.
 2) Executar no terminal o comando: node server.js
