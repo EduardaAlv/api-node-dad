@@ -1,5 +1,5 @@
 Português
------Trabalho de Desenvolvimento de Aplicações Distribuídas-----
+-----Desenvolvimento de Aplicações Distribuídas-----
 
 ----Exemplo de projeto Node.js, foi realizada a criação de uma API do tipo GET----
 ----Iniciando o servidor node----
